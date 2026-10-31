@@ -1,0 +1,33 @@
+{
+  "title": "Igloo \u2014 Recorded ice-world journey",
+  "creator": "Techwithaadii / original site Igloo Inc.",
+  "source": "https://www.facebook.com/reel/1645144840570041",
+  "width": 480,
+  "height": 270,
+  "cols": 8,
+  "frames": 47,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "The igloo"
+    },
+    {
+      "progress": 0.27,
+      "label": "Into the ice"
+    },
+    {
+      "progress": 0.47,
+      "label": "The frozen world"
+    },
+    {
+      "progress": 0.69,
+      "label": "The ring"
+    },
+    {
+      "progress": 0.84,
+      "label": "The horizon"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}
